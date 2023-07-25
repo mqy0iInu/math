@@ -43,11 +43,14 @@
 
 ## アルゴリズム
 
-- [Nクイーン問題](doc/algo/n_queen/nq.md)
+- [バブルソート](doc/tbd.md)
+- [クイックソート](doc/tbd.md)
+- [ハノイの塔](doc/tbd.md)
+
+### 最短経路問題
+
+- [Nクイーン問題](doc/tbd.md)
 - [巡回セールスマン問題](doc/algo/tsp/tsp.md)
-
-### 探索
-
 - [深さ優先探索](doc/algo/dfs/dfs.md)
 - [幅優先探索](doc/algo/bfs/bfs.md)
 - [A＊アルゴリズム](doc/algo/a_star/a_star.md)
